@@ -1,4 +1,4 @@
 # satyrox.github.io
 Hjemmeside
 
-[Google linj](https://theuselessweb.com/)
+[Google link](https://theuselessweb.com/)
