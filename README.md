@@ -1,4 +1,4 @@
 # satyrox.github.io
 Hjemmeside
 
-[Google link](https://theuselessweb.com/)
+[Pointer link](https://pointerpointer.com/)
